@@ -2,11 +2,7 @@
 Edited qb-phone design
 
 # preview
-
-Home Screen:
 ![image](https://user-images.githubusercontent.com/89866234/170887173-f84e7997-477a-4c84-8ce5-a0726c620335.png)
-
-Garage app:
 ![image](https://user-images.githubusercontent.com/89866234/171043429-3bb52f5c-3c12-45f2-8a50-59b4f5913f74.png)
 ![image](https://user-images.githubusercontent.com/89866234/171043464-a4e3d83a-8c95-40dc-ba80-22748b92fa8f.png)
 ![image](https://user-images.githubusercontent.com/89866234/170887192-7de2b9a5-be22-4533-99fb-c41f93b05105.png)
