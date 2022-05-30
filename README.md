@@ -6,7 +6,7 @@ Edited qb-phone design
 ![image](https://user-images.githubusercontent.com/89866234/171043429-3bb52f5c-3c12-45f2-8a50-59b4f5913f74.png)
 ![image](https://user-images.githubusercontent.com/89866234/171043464-a4e3d83a-8c95-40dc-ba80-22748b92fa8f.png)
 ![image](https://user-images.githubusercontent.com/89866234/170887192-7de2b9a5-be22-4533-99fb-c41f93b05105.png)
-![image](https://user-images.githubusercontent.com/89866234/170887197-7304cf19-b75a-4063-809a-3ff29906fa0b.png)
+![image](https://user-images.githubusercontent.com/89866234/171044548-1f4d1b48-2229-4789-b391-5203a57f00e2.png)
 ![image](https://user-images.githubusercontent.com/89866234/170887203-c4d196b3-7e28-4cec-a5dc-79fb8de2f89f.png)
 ![image](https://user-images.githubusercontent.com/89866234/170887206-490a2e59-aba8-40e2-9f7f-e2f2aacd62d4.png)
 ![image](https://user-images.githubusercontent.com/89866234/170887209-ec951990-8309-41e4-a3b9-1e9310138c9a.png)
